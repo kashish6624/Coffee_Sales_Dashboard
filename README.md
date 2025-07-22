@@ -69,15 +69,6 @@ Highlights high-revenue customers:
 
 ---
 
-## Key Insights
-
-- **Arabica** and **Excelsa** dominate monthly sales.
-- **United States** leads in global sales volume.
-- **Allis Wilmore** is the most valuable customer.
-- Clear **seasonal patterns** emerge by coffee bean type.
-
----
-
 ## Tools Used
 
 - **Excel** for dashboard creation and interactivity  
